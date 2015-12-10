@@ -36,4 +36,4 @@ You'll be able to copy-paste all of the code provided here directly into RStudio
 
 ## Feedback
 
-We welcome any feedback on our workshops, tools, suggestions for new packages, and any collaborations you might have in mind. [Please get in touch](http://ropensci.org/contact.html).
+We welcome any feedback on our workshops, tools, suggestions for new packages, and collaborations you might have in mind. [Please get in touch](http://ropensci.org/contact.html).
